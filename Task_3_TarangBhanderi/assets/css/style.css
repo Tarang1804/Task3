@@ -1,0 +1,48 @@
+.sidebar {
+    background-color: #FFCCCC;
+    height: 28rem;
+}
+
+.section1 {
+    background-color: #FFD4C7;
+    height: 13.5rem;
+}
+
+.section2 {
+    background-color: #BAB9E2;
+    height: 13.5rem;
+}
+
+.section3 {
+    background-color: #D7BDBD;
+    height: 13.5rem;
+}
+
+.section4 {
+    background-color: #E1FFC3;
+    height: 13.5rem;
+}
+
+.section5 {
+    background-color: #77DFF5;
+    height: 13.5rem;
+}
+
+.section6 {
+    background-color: #D7D4BD;
+    height: 13.5rem;
+}
+
+.footer {
+    height: 4.6rem;
+}
+
+image {
+    object-fit: cover;
+}
+
+@media screen and (max-width: 992px) {
+    .gutter {
+        margin-top: 1rem;
+    }
+}
